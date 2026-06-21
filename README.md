@@ -1,29 +1,29 @@
 # Hi, I'm Bá Lộc Vũ (DynamiteV) 👋
 
-Self-taught .NET Backend Developer based in Ho Chi Minh City, Vietnam.
+.NET Backend Developer (Self-Taught) based in Ho Chi Minh City, Vietnam.
 
-I build production-ready backend systems with C#, ASP.NET Core, PostgreSQL, Docker, and modern software architecture practices.
+Currently seeking **Internship** and **Fresher .NET Developer** opportunities.
 
-Currently seeking Internship and Fresher .NET Developer opportunities.
+I enjoy building backend applications, automation platforms, and community management systems using modern .NET technologies.
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Featured Projects
 
 ### Dynamite Core
 
-A self-hosted Discord management platform inspired by Dyno, Carl-bot, and MEE6.
+A self-hosted Discord management platform inspired by Dyno, Carl-bot and MEE6.
 
-Features:
+**Key Features**
 
-* Moderation
+* Moderation System
 * Ticket System
 * Giveaway System
 * Economy System
 * Logging & Security
 * Discord OAuth2 Dashboard
 
-Tech Stack:
+**Tech Stack**
 
 * .NET 8
 * ASP.NET Core
@@ -33,76 +33,95 @@ Tech Stack:
 * Docker
 * React
 
-Highlights:
+**Highlights**
 
 * Modular architecture
-* REST API
-* CI/CD with GitHub Actions
+* REST API development
+* GitHub Actions CI/CD
 * Unit testing with xUnit & Moq
-* Production deployment
+* Docker deployment
 
 ---
 
 ### Discord YouTube & Shop Bot
 
-Production bot serving a Discord community with 320+ members.
+A community automation platform currently deployed for a Discord gaming community.
 
-Features:
+**Key Features**
 
-* YouTube video & livestream monitoring
+* YouTube upload & livestream monitoring
 * Affiliate shop discount aggregation
-* Multi-provider architecture (Lootbar, LDShop)
+* Multi-provider architecture
 * Scheduled background jobs
 * Discord slash commands
-* Docker deployment
 
-Tech Stack:
+**Tech Stack**
 
 * .NET 8
 * Discord.Net
 * YouTube Data API v3
 * Docker
-* GitHub Actions
 * Serilog
 * Polly
 
-Highlights:
+**Highlights**
 
-* Provider Pattern architecture
+* Provider Pattern implementation
 * Background Services
-* Resilient HTTP integrations
-* Production deployment on Linux VPS
+* External API integrations
+* Linux VPS deployment
+* Production usage by a real community
 
 ---
 
 ## 🛠 Tech Stack
 
-Backend
+### Backend
 
 * C#
 * .NET 8
 * ASP.NET Core
 * Entity Framework Core
 
-Database
+### Database
 
 * PostgreSQL
 
-DevOps
+### DevOps
 
 * Docker
 * GitHub Actions
 * Linux VPS
 
-Frontend
+### Frontend
 
 * React
 * TypeScript
+
+### Software Engineering
+
+* Clean Architecture
+* Dependency Injection
+* SOLID Principles
+* REST API Design
+* Background Services
+
+---
+
+## 🎯 Currently Learning
+
+* Advanced ASP.NET Core
+* PostgreSQL Optimization
+* Microservices Architecture
+* Cloud Deployment
+* Software Design Patterns
 
 ---
 
 ## 📫 Contact
 
-* Email: [baloc2001@gmail.com](mailto:baloc2001@gmail.com)
-* GitHub: https://github.com/balocvu3105-dd
-* Location: Ho Chi Minh City, Vietnam
+📧 Email: [baloc2001@gmail.com](mailto:baloc2001@gmail.com)
+
+💻 GitHub: https://github.com/balocvu3105-dd
+
+📍 Ho Chi Minh City, Vietnam
