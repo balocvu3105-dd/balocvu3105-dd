@@ -1,127 +1,158 @@
 # Hi, I'm Bá Lộc Vũ (DynamiteV) 👋
 
-.NET Backend Developer (Self-Taught) based in Ho Chi Minh City, Vietnam.
+I'm an aspiring **.NET Backend Developer** based in Ho Chi Minh City, Vietnam.
 
-Currently seeking **Internship** and **Fresher .NET Developer** opportunities.
+I enjoy building scalable backend systems, automation platforms, and community management applications using modern .NET technologies.
 
-I enjoy building backend applications, automation platforms, and community management systems using modern .NET technologies.
-
----
-
-## 🚀 Featured Projects
-
-### Dynamite Core
-
-A self-hosted Discord management platform inspired by Dyno, Carl-bot and MEE6.
-
-**Key Features**
-
-* Moderation System
-* Ticket System
-* Giveaway System
-* Economy System
-* Logging & Security
-* Discord OAuth2 Dashboard
-
-**Tech Stack**
-
-* .NET 8
-* ASP.NET Core
-* PostgreSQL
-* Entity Framework Core
-* Clean Architecture
-* Docker
-* React
-
-**Highlights**
-
-* Modular architecture
-* REST API development
-* GitHub Actions CI/CD
-* Unit testing with xUnit & Moq
-* Docker deployment
+🎯 **Currently seeking Internship and Fresher .NET Backend Developer opportunities.**
 
 ---
 
-### Discord YouTube & Shop Bot
+# 🚀 Featured Projects
 
-A community automation platform currently deployed for a Discord gaming community.
+## Dynamite Core
 
-**Key Features**
+A modular Discord management platform inspired by Dyno, Carl-bot, and MEE6, built with modern .NET technologies.
 
-* YouTube upload & livestream monitoring
-* Affiliate shop discount aggregation
-* Multi-provider architecture
-* Scheduled background jobs
-* Discord slash commands
+### Features
 
-**Tech Stack**
+- 🛡️ Moderation System
+  - Ban
+  - Kick
+  - Timeout
+  - Warn
+  - Purge
+  - Slowmode
 
-* .NET 8
-* Discord.Net
-* YouTube Data API v3
-* Docker
-* Serilog
-* Polly
+- 🎫 Ticket System
 
-**Highlights**
+- 🎉 Giveaway System
 
-* Provider Pattern implementation
-* Background Services
-* External API integrations
-* Linux VPS deployment
-* Production usage by a real community
+- 👥 Role Management
+  - Auto Role
+  - Button Roles
+  - Select Menu Roles
 
----
+- ⚙️ Server Configuration
 
-## 🛠 Tech Stack
+- 🔐 Discord OAuth2 Authentication
 
-### Backend
+- 📜 Logging System
 
-* C#
-* .NET 8
-* ASP.NET Core
-* Entity Framework Core
+### Tech Stack
 
-### Database
+- C#
+- .NET 8
+- ASP.NET Core
+- Entity Framework Core
+- PostgreSQL
+- Docker
+- Discord.Net
+- Serilog
 
-* PostgreSQL
+### What I Learned
 
-### DevOps
-
-* Docker
-* GitHub Actions
-* Linux VPS
-
-### Frontend
-
-* React
-* TypeScript
-
-### Software Engineering
-
-* Clean Architecture
-* Dependency Injection
-* SOLID Principles
-* REST API Design
-* Background Services
+- Clean Architecture
+- Dependency Injection
+- Repository Pattern
+- Background Services
+- REST API Design
+- Database Design with EF Core
+- Docker Deployment
 
 ---
 
-## 🎯 Currently Learning
+## Discord YouTube & Shop Bot
 
-* Advanced ASP.NET Core
-* PostgreSQL Optimization
-* Microservices Architecture
-* Cloud Deployment
-* Software Design Patterns
+A production Discord bot developed for a gaming community that automates YouTube notifications and promotional content.
+
+### Features
+
+- 📺 YouTube Upload Monitoring
+- 🔴 Livestream Notifications
+- 🛍️ Shop Promotion Automation
+- ⏰ Scheduled Background Jobs
+- 💬 Discord Slash Commands
+
+### Tech Stack
+
+- C#
+- .NET 8
+- Discord.Net
+- YouTube Data API v3
+- RSS Feed
+- Docker
+- Serilog
+- Ubuntu Linux VPS
+
+### What I Learned
+
+- External API Integration
+- RSS Feed Processing
+- Hosted Background Services
+- Error Handling
+- Docker Deployment
+- Production Bot Maintenance
 
 ---
 
-## 📫 Contact
+# 🛠 Technical Skills
 
-📧 Email: [baloc2001@gmail.com](mailto:baloc2001@gmail.com)
+## Languages
 
-💻 GitHub: https://github.com/balocvu3105-dd
+- C#
+- SQL
+
+## Backend
+
+- .NET 8
+- ASP.NET Core
+- Entity Framework Core
+- REST API
+
+## Database
+
+- PostgreSQL
+
+## DevOps
+
+- Docker
+- Git
+- GitHub
+- Linux VPS
+
+## Software Engineering
+
+- Clean Architecture
+- SOLID Principles
+- Dependency Injection
+- Background Services
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced ASP.NET Core
+- PostgreSQL Performance Optimization
+- Software Design Patterns
+- Microservices Architecture
+- Cloud Deployment
+
+---
+
+# 📫 Contact
+
+📧 Email  
+**baloc2001@gmail.com**
+
+💼 LinkedIn  
+(Updating...)
+
+💻 GitHub  
+https://github.com/balocvu3105-dd
 
 📍 Ho Chi Minh City, Vietnam
+
+---
+
+Thank you for visiting my GitHub profile! ⭐
